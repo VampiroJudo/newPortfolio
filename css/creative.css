@@ -155,7 +155,7 @@ header {
   background-size: cover;
   -o-background-size: cover;  
   background-position: center;
-  background-image: url('../img/ankorWat.jpg');
+  background-image: url('../img/ankorwat.jpg') ;
   text-align: center;
   color: white;
 }
@@ -392,6 +392,7 @@ fieldset[disabled] .btn-primary.active {
 }
 .btn-xl {
   padding: 15px 30px;
+
 }
 ::-moz-selection {
   color: white;
@@ -414,3 +415,5 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #222222;
 }
+
+
