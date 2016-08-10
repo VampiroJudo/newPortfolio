@@ -153,9 +153,9 @@ header {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
-  -o-background-size: cover;
+  -o-background-size: cover;  
   background-position: center;
-  background-image: url('../img/ankor_wat.jpg');
+  background-image: url('../img/ankorWat.jpg');
   text-align: center;
   color: white;
 }
