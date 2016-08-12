@@ -155,7 +155,7 @@ header {
   background-size: cover;
   -o-background-size: cover;  
   background-position: center;
-  background-image: url('../img/ankorwat.jpg');
+  background-image: url('../img/nasa4.jpg');
   text-align: center;
   color: white;
 }
@@ -416,4 +416,7 @@ body {
   webkit-tap-highlight-color: #222222;
 }
 
-
+#homeHeading {
+  color: black;
+  font-style
+}
