@@ -420,3 +420,10 @@ body {
   color: black;
   font-style
 }
+#contact {
+  background-color: #0C1C52;
+}
+
+.text-center:hover {
+  color: #fff;
+}
